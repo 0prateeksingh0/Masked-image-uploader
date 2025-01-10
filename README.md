@@ -1,4 +1,3 @@
-Here’s a polished version of your **Masked Image Uploader** README in the requested style:
 
 ---
 

@@ -1,6 +1,5 @@
 
 ---
-
 # **Masked Image Uploader**  
 
 A **powerful tool** for creating masks on uploaded images, designed for intuitive user interaction and seamless export functionality.  

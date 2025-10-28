@@ -5,7 +5,7 @@
   "proxy":"http://127.0.0.1:8000",
   "dependencies": {
     "react-scripts": "^5.0.1",
-    "axios": "^1.7.9",
+    "axios": "^1.12.0",
     "cra-template": "1.2.0",
     "fabric": "^6.5.3",
     "react": "^19.0.0",
